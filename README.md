@@ -6,7 +6,7 @@ Contains laughter. Good for any cloud and any provider.
 [![yamllint](https://github.com/sblack4/terraform-terraform-laughs/workflows/yamllint/badge.svg?branch=master&event=push)](https://github.com/sblack4/terraform-terraform-laughs/actions?query=workflow%3Ayamllint+event%3Apush+branch%3Amaster)
 [![misspell](https://github.com/sblack4/terraform-terraform-laughs/workflows/misspell/badge.svg?branch=master&event=push)](https://github.com/sblack4/terraform-terraform-laughs/actions?query=workflow%3Amisspell+event%3Apush+branch%3Amaster)
 [![pre-commit-check](https://github.com/sblack4/terraform-terraform-laughs/workflows/pre-commit-check/badge.svg?branch=master&event=push)](https://github.com/sblack4/terraform-terraform-laughs/actions?query=workflow%3Apre-commit-check+event%3Apush+branch%3Amaster)
-<a href="https://twitter.com/intent/follow?screen_name=sblack4"><img src="https://img.shields.io/twitter/follow/sblack4?style=social&logo=twitter" alt="follow on Twitter"></a>
+
 
 ## Example
 Here's what using the module will look like
