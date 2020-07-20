@@ -1,8 +1,6 @@
 
 module "example" {
   source = "../.."
-
-  name = "test"
 }
 
 output "example" {
