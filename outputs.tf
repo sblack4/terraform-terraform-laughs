@@ -1,5 +1,5 @@
 
-output "tags_module" {
-  description = "Tags Module in it's entirety"
-  value       = module.tags
+output "laughs_in_terraform" {
+  description = "Where is your IAC now?"
+  value       = "HahahahHAHAHahAHAHHAHHAHAahahHA"
 }

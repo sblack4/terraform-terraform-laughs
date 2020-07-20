@@ -1,48 +1,23 @@
-# terraform-terraform-template
-Template repository for terraform modules. Good for any cloud and any provider.
+# terraform-terraform-laughs
+Contains laughter. Good for any cloud and any provider.
 
-[![tflint](https://github.com/rhythmictech/terraform-terraform-template/workflows/tflint/badge.svg?branch=master&event=push)](https://github.com/rhythmictech/terraform-terraform-template/actions?query=workflow%3Atflint+event%3Apush+branch%3Amaster)
-[![tfsec](https://github.com/rhythmictech/terraform-terraform-template/workflows/tfsec/badge.svg?branch=master&event=push)](https://github.com/rhythmictech/terraform-terraform-template/actions?query=workflow%3Atfsec+event%3Apush+branch%3Amaster)
-[![yamllint](https://github.com/rhythmictech/terraform-terraform-template/workflows/yamllint/badge.svg?branch=master&event=push)](https://github.com/rhythmictech/terraform-terraform-template/actions?query=workflow%3Ayamllint+event%3Apush+branch%3Amaster)
-[![misspell](https://github.com/rhythmictech/terraform-terraform-template/workflows/misspell/badge.svg?branch=master&event=push)](https://github.com/rhythmictech/terraform-terraform-template/actions?query=workflow%3Amisspell+event%3Apush+branch%3Amaster)
-[![pre-commit-check](https://github.com/rhythmictech/terraform-terraform-template/workflows/pre-commit-check/badge.svg?branch=master&event=push)](https://github.com/rhythmictech/terraform-terraform-template/actions?query=workflow%3Apre-commit-check+event%3Apush+branch%3Amaster)
-<a href="https://twitter.com/intent/follow?screen_name=RhythmicTech"><img src="https://img.shields.io/twitter/follow/RhythmicTech?style=social&logo=twitter" alt="follow on Twitter"></a>
+[![tflint](https://github.com/sblack4/terraform-terraform-laughs/workflows/tflint/badge.svg?branch=master&event=push)](https://github.com/sblack4/terraform-terraform-laughs/actions?query=workflow%3Atflint+event%3Apush+branch%3Amaster)
+[![tfsec](https://github.com/sblack4/terraform-terraform-laughs/workflows/tfsec/badge.svg?branch=master&event=push)](https://github.com/sblack4/terraform-terraform-laughs/actions?query=workflow%3Atfsec+event%3Apush+branch%3Amaster)
+[![yamllint](https://github.com/sblack4/terraform-terraform-laughs/workflows/yamllint/badge.svg?branch=master&event=push)](https://github.com/sblack4/terraform-terraform-laughs/actions?query=workflow%3Ayamllint+event%3Apush+branch%3Amaster)
+[![misspell](https://github.com/sblack4/terraform-terraform-laughs/workflows/misspell/badge.svg?branch=master&event=push)](https://github.com/sblack4/terraform-terraform-laughs/actions?query=workflow%3Amisspell+event%3Apush+branch%3Amaster)
+[![pre-commit-check](https://github.com/sblack4/terraform-terraform-laughs/workflows/pre-commit-check/badge.svg?branch=master&event=push)](https://github.com/sblack4/terraform-terraform-laughs/actions?query=workflow%3Apre-commit-check+event%3Apush+branch%3Amaster)
+<a href="https://twitter.com/intent/follow?screen_name=sblack4"><img src="https://img.shields.io/twitter/follow/sblack4?style=social&logo=twitter" alt="follow on Twitter"></a>
 
 ## Example
 Here's what using the module will look like
 ```hcl
 module "example" {
-  source = "rhythmictech/terraform-mycloud-mymodule
+  source = "sblack4/terraform-mycloud-mymodule
 }
 ```
 
-## About
-A bit about this module
-
 <!-- BEGINNING OF PRE-COMMIT-TERRAFORM DOCS HOOK -->
-## Requirements
-
-| Name | Version |
-|------|---------|
-| terraform | >= 0.12.14 |
-
-## Providers
-
-No provider.
-
-## Inputs
-
-| Name | Description | Type | Default | Required |
-|------|-------------|------|---------|:--------:|
-| name | Moniker to apply to all resources in the module | `string` | n/a | yes |
-| tags | User-Defined tags | `map(string)` | `{}` | no |
-
-## Outputs
-
-| Name | Description |
-|------|-------------|
-| tags\_module | Tags Module in it's entirety |
-
+Error: no lines in file
 <!-- END OF PRE-COMMIT-TERRAFORM DOCS HOOK -->
 
 ## The Giants Underneath this Module
